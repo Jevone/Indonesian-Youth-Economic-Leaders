@@ -17,24 +17,24 @@ export const nawasatya = [
   },
   {
     number: "05",
-    description: "Menjunjung tinggi kedaulatan sumber daya alam Indonesia",
+    description: "Menjunjung tinggi kemandirian ekonomi Indonesia",
   },
   {
     number: "06",
     description:
-      "Berkarya untuk kejayaan kebumian dan sumber daya alam Indonesia",
+      "Berkarya untuk kemajuan ekonomi hijau, ekonomi biru, ekonomi digital, ekonomi kreatif, dan ekonomi kesehatan Indonesia",
   },
   {
     number: "07",
     description:
-      "Memanfaatkan dan mengembangkan ilmu pengetahuan dan teknologi kebumian Indonesia",
+      "Memanfaatkan dan mengembangkan ilmu pengetahuan dan teknologi bisnis Indonesia",
   },
   {
     number: "08",
-    description: "Memperkuat budaya kebumian Indonesia",
+    description: "Memperkuat budaya bisnis berkelanjutan Indonesia",
   },
   {
     number: "09",
-    description: "Mengelola dan menjaga sumber daya alam Indonesia",
+    description: "Mengelola dan menjaga sumber daya alam Indonesia secara berkelanjutan, efektif, dan efisien",
   },
 ];
